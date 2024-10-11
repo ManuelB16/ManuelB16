@@ -1,8 +1,8 @@
-- Hi, I'm Manuel Felipe Barrera
-- I'm an 8th-semester Systems Engineering student with a passion for technology and software development.
-- I have experience working with various programming languages and frameworks, including Python, Haskell, Java, JavaScript, HTML, CSS, and React.
-- Additionally, I have a solid understanding of database management.
+Hello, I'm Manuel Felipe Barrera
+I am currently in my 8th semester of Systems Engineering, with strong expertise in software development and a solid foundation in various programming languages and technologies. My key competencies include:
 
-I'm always looking for new challenges to expand my skills and contribute to exciting projects. Feel free to explore my repositories or reach out if you'd like to collaborate!
-
+Languages: Python, Haskell, Java, JavaScript 🔡
+Web Development: HTML, CSS, React :basecamp:
+Database Management: Proficient in managing and designing database systems 🧮
+I am passionate about continuously improving my skills and taking on challenging projects that drive innovation. My goal is to collaborate with like-minded developers to build impactful and efficient software solutions. Please feel free to explore my repositories, or reach out if you're interested in working together. ⚛️
 

@@ -1,6 +1,5 @@
 - Hello, I'm Manuel Felipe Barrera
-- I am currently in my 8th semester of Systems Engineering, with strong expertise in software development and a solid foundation in various programming languages and technologies. My key 
-- competencies include:
+- I am currently in my 8th semester of Systems Engineering, with strong expertise in software development and a solid foundation in various programming languages and technologies. My key competencies include:
 
 - Languages: Python, Haskell, Java, JavaScript 🔡
 - Web Development: HTML, CSS, React :basecamp:
